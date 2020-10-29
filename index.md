@@ -4,4 +4,4 @@
 
 - [Bahasa Pemrograman Rust](/bahasa-pemrograman/rust/)
 - [Object Detection](/kecerdasan-buatan/object-detection/)
-
+- [Kubernetes](/devops/kubernetes/)
