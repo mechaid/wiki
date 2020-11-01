@@ -2,6 +2,7 @@
 title: Fuzzy Logic
 ---
 
+## Definisi
 Penentuan nilai keputusan berdasarkan derajat kebenaran antara 0 dan 1.
 
 ## Artikel Terkait
