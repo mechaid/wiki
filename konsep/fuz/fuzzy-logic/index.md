@@ -1,5 +1,7 @@
 ---
 title: Fuzzy Logic
+layout: wiki-page
+tags: [logics, fuzzy]
 ---
 
 ## Definisi
