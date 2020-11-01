@@ -1,5 +1,5 @@
 ---
-title: Mecha.id Wiki
+title: Mecha Wiki
 ---
 
 ## Artikel Pilihan - Teknologi Informasi &amp; Sains Komputer
