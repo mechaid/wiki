@@ -19,6 +19,10 @@ tags: [jwt, fuzzy]
   - This information can be verified and trusted because it is digitally signed
   - Can be signed using a [secret](https://www.hypr.com/secret-key/) (with the HMAC algorithm)
   - Or a [public/private key pair](https://www.sciencedirect.com/topics/computer-science/private-key-pair) using RSA or ECDSA.
+- [**IBM**](https://www.ibm.com/docs/en/sva/10.0.2?topic=types-json-web-token-jwt):
+  - Set of JSON claims that are signed, encrypted, or both
+  - Are encoded into a web safe form
+  - This set of claims might or might not include some well-known claims that are defined by the RFC. 
 
 ## Artikel Terkait
 - 
