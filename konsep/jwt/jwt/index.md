@@ -1,7 +1,7 @@
 ---
 title: JSON Web Tokens
 layout: wiki-page
-tags: [jwt, fuzzy]
+tags: [jwt, kriptografi, cryptography, rfc]
 ---
 
 ## Definisi
@@ -12,7 +12,7 @@ tags: [jwt, fuzzy]
   - Each JWT contains encoded JSON objects, including a set of claims
   - JWTs are [signed](https://stackoverflow.com/a/454069) using a [cryptographic algorithm](https://www.sciencedirect.com/topics/computer-science/cryptographic-algorithm) to ensure that the claims cannot be altered after the token is issued.
 - [**JWT.io**](https://jwt.io/introduction):
-  - Open standard (RFC 7519)
+  - Open standard ([RFC 7519](https://datatracker.ietf.org/doc/html/rfc7519))
   - Defines a compact and self-contained way
   - For securely transmitting information between parties
   - As a JSON object
