@@ -23,6 +23,18 @@ tags: [jwt, fuzzy]
   - Set of JSON claims that are signed, encrypted, or both
   - Are encoded into a web safe form
   - This set of claims might or might not include some well-known claims that are defined by the RFC. 
+- [**Auth0**](https://auth0.com/docs/security/tokens/json-web-tokens):
+  - Pronounced "jot"
+  - Open standard (RFC 7519)
+  - Defines a compact and self-contained way
+  - For securely transmitting information between parties
+  - As a JSON object
+  - Is a standard, meaning that all JWTs are tokens, but not all tokens are JWTs
+- [**KrakenD**](https://www.krakend.io/docs/authorization/jwt-overview/):
+  - Industry standard
+  - Represent claims securely between two parties
+  - An encoded JSON object
+  - Contains key-value pairs of attributes that are signed by a trusted authority.
 
 ## Artikel Terkait
 - 
