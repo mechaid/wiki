@@ -37,4 +37,4 @@ tags: [jwt, kriptografi, cryptography, rfc]
   - Contains key-value pairs of attributes that are signed by a trusted authority.
 
 ## Artikel Terkait
-- [https://tools.ietf.org/id/draft-ietf-jose-json-web-key-00.html](https://tools.ietf.org/id/draft-ietf-jose-json-web-key-00.html)
+- [IETF - JSON Web Key (JWK)](https://tools.ietf.org/id/draft-ietf-jose-json-web-key-00.html)
