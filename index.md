@@ -4,7 +4,7 @@ title: Mecha Wiki
 
 ## Artikel Pilihan - Teknologi Informasi &amp; Sains Komputer
 
-- [Bahasa Pemrograman Rust](/wiki/alat/rus/rust/)
-- [Object Detection](/wiki/konsep/obj/object-detection/)
-- [Kubernetes](/wiki/alat/kub/kubernetes/)
 - [Fuzzy logic](/wiki/konsep/fuz/fuzzy-logic/)
+- [HMAC](/wiki/wiki/hma/hmac/)
+- [MAC](/wiki/wiki/mac/mac/)
+- [Service Worker](/wiki/wiki/ser/service-worker/)
