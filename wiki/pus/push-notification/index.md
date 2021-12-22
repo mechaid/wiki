@@ -5,8 +5,27 @@ tags: [push, notification, android, browser, notif]
 ---
 
 ## Definisi
-- Push : Server kirim message ke client 
-- Notification : Client kirim notification ke client 
+- Push API : API di browser untuk server kirim message ke client
+- Notification API : API di browser untuk client kirim notification ke client 
+
+## Push API
+- Butuh
+  - HTTPS
+  - VAPID keys
+
+### Objek Terkait
+
+### Tahapan
+Sisi client
+1. Registrasi [service worker](/wiki/wiki/ser/service-worker)
+2. Cek o. Subscription udah ada atau belum
+   - Jika belum, ambil VAPID public key dari server
+3. Bikin o. Subscription pake VAPID public key via pushManager
+4. Kirim o. Subscription ke server, untuk dipake server kirim push message ke client 
+
+## Catatan
+- Push API
+- Web socket dapat digunakan untuk push data ke client menggunakan Push API
 
 ## Artikel Terkait
 [HMAC Algorithm in Computer Network](https://www.geeksforgeeks.org/hmac-algorithm-in-computer-network/)
