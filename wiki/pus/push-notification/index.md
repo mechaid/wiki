@@ -42,6 +42,8 @@ Sisi server
 - Web socket dapat digunakan untuk push data ke client menggunakan Push API
 
 ## Artikel Terkait
-[Notifications, Server Side Events, Web Sockets (SocketIO), and Push API](https://abaganon.com/tutorials/sse_ws_push.html)
-[Push Backend - Gorush](https://github.com/appleboy/gorush)
-[ProgrammableWeb - What Is a WebSockets Push-Styled API and How Does It Work?](https://www.programmableweb.com/news/what-websockets-push-styled-api-and-how-does-it-work/analysis/2017/04/20)
+- [Google - The Web Push Protocol](https://developers.google.com/web/fundamentals/push-notifications/web-push-protocol)
+- [Notifications, Server Side Events, Web Sockets (SocketIO), and Push API](https://abaganon.com/tutorials/sse_ws_push.html)
+- [Push Backend - Gorush](https://github.com/appleboy/gorush)
+- [ProgrammableWeb - What Is a WebSockets Push-Styled API and How Does It Work?](https://www.programmableweb.com/news/what-websockets-push-styled-api-and-how-does-it-work/analysis/2017/04/20)
+- [Google - Sending Messages with Web Push Libraries](https://developers.google.com/web/fundamentals/push-notifications/sending-messages-with-web-push-libraries)
