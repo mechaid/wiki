@@ -14,3 +14,4 @@ title: Mecha Wiki
 
 ### Cloud Service
 - [AWS Lambda](/wiki/aws/aws-lambda/)
+
