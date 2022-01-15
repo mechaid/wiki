@@ -13,5 +13,5 @@ title: Mecha Wiki
 - [Push Notification](/wiki/wiki/pus/push-notification/)
 
 ### Cloud Service
-- [AWS Lambda](/wiki/aws/aws-lambda/)
+- [AWS Lambda](/wiki/wiki/aws/aws-lambda/)
 
