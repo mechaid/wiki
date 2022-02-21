@@ -32,6 +32,7 @@ tags: [service-worker, pwa, notifications]
 - [Mozilla - Using the Notifications API](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API)
 - [Mozilla - Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API)
 - [Notifications, Server Side Events, Web Sockets (SocketIO), and Push API](https://abaganon.com/tutorials/sse_ws_push.html)
+- [Mozilla - Use Service Workers to manage network requests and push notifications](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 
 ## Artikel Tidak Terkait
 - [Picture in Picture](https://developer.mozilla.org/en-US/docs/Web/API/Picture-in-Picture_API)
