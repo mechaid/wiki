@@ -23,4 +23,4 @@ title: Mecha Wiki
 
 ### Cloud Service
 - [AWS Lambda](/wiki/wiki/aws/aws-lambda/)
-
+- [Google Cloud Storage](/wiki/wiki/goo/google-cloud-storage/)
