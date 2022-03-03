@@ -11,6 +11,9 @@ title: Mecha Wiki
 - [HMAC](/wiki/wiki/hma/hmac/)
 - [MAC](/wiki/wiki/mac/mac/)
 
+### Data
+- [Data Warehouse](/wiki/wiki/dat/data-warehouse/)
+
 ### Web Development
 - [Service Worker](/wiki/wiki/ser/service-worker/)
 - [Push Notification](/wiki/wiki/pus/push-notification/)
