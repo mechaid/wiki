@@ -23,4 +23,6 @@ title: Mecha Wiki
 
 ### Cloud Service
 - [AWS Lambda](/wiki/wiki/aws/aws-lambda/)
-- [Google Cloud Storage](/wiki/wiki/goo/google-cloud-storage/)
+- **Google Cloud Platform**
+  - [Google Cloud Storage](/wiki/wiki/goo/google-cloud-storage/)
+  - [Firebase Cloud Messaging](/wiki/wiki/fir/firebase-cloud-messaging/)
