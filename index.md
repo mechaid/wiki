@@ -20,6 +20,7 @@ title: Mecha Wiki
 
 ### Cloud Development
 - [Microservices](/wiki/wiki/mic/microservices/)
+- [KrakenD API Gateway](/wiki/wiki/kra/krakend/)
 
 ### Cloud Service
 - [AWS Lambda](/wiki/wiki/aws/aws-lambda/)
