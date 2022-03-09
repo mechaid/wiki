@@ -15,6 +15,7 @@ title: Mecha Wiki
 - [Data Warehouse](/wiki/wiki/dat/data-warehouse/)
 
 ### Web Development
+- [React](/wiki/wiki/rea/react/)
 - [Service Worker](/wiki/wiki/ser/service-worker/)
 - [Push Notification](/wiki/wiki/pus/push-notification/)
 
