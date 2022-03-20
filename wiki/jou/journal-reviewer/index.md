@@ -1,0 +1,9 @@
+---
+title: Journal Reviewer
+seo-title: Reviewer Jurnal
+layout: wiki-page
+tags: [reviewer, jurnal, journal, paper, article]
+---
+
+## Referensi
+- [Elsevier - The role of a reviewer](https://www.elsevier.com/reviewers/role)
