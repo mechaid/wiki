@@ -6,7 +6,7 @@ tags: [ai, artificial-intelligence, kecerdasan-buatan]
 ---
 
 ## Definisi
-- Hasil rekayasa yang mampu berpikir dan bertindak menyerupai manusia untuk tugas spesifik tertentu
+- Hasil rekayasa yang mampu berpikir ataupun bertindak menyerupai manusia dalam hal spesifik tertentu
 - Tingkat kemampuan mulai dibawah manusia hingga melampaui manusia
 - Contoh task AI:
   - mengambil keputusan
