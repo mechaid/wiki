@@ -11,5 +11,9 @@ tags: [ai, artificial-intelligence, kecerdasan-buatan]
 - Contoh task AI:
   - mengambil keputusan
   - mencari solusi optimal
+  - memprediksi
   - membedakan
   - berkreasi
+    - membuat lagu
+    - melukis
+    - chit chat
