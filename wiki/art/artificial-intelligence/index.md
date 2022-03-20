@@ -6,6 +6,7 @@ tags: [ai, artificial-intelligence, kecerdasan-buatan]
 ---
 
 ## Definisi
-- Hasil rekayasa yang mampu berpikir dan bertindak menyerupai manusia
-  - menghitung optimal
-  - kreativitas
+- Hasil rekayasa yang mampu berpikir dan bertindak menyerupai manusia, dengan tingkat kemampuan dibawah manusia hingga melebihi manusia. Mencakup hal-hal seperti:
+  - mencari solusi optimal
+  - membedakan
+  - berkreasi
