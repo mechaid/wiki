@@ -4,6 +4,9 @@ title: Mecha Wiki
 
 ## Artikel Pilihan - Teknologi Informasi &amp; Sains Komputer
 
+### Scientific Publication
+- [Journal reviewer](/wiki/wiki/jou/journal-reviewer/)
+
 ### AI 
 - [Fuzzy logic](/wiki/wiki/fuz/fuzzy-logic/)
 - [Artificial Intelligence](/wiki/wiki/art/artificial-intelligence/)
