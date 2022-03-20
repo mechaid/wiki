@@ -6,3 +6,4 @@ tags: [mc, master-of-ceremony, public-speaking]
 ---
 
 ## Referensi
+- [Teknik Dasar Public Speaking](https://www.youtube.com/watch?v=47ZCSPmzskw)
