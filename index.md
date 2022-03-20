@@ -5,8 +5,8 @@ title: Mecha Wiki
 ## Artikel Pilihan - Teknologi Informasi &amp; Sains Komputer
 
 ### AI 
-- [Fuzzy logic](/wiki/konsep/fuz/fuzzy-logic/)
-- [Artificial Intelligence](/wiki/konsep/art/artificial-intelligence/)
+- [Fuzzy logic](/wiki/wiki/fuz/fuzzy-logic/)
+- [Artificial Intelligence](/wiki/wiki/art/artificial-intelligence/)
 
 ### Security
 - [HMAC](/wiki/wiki/hma/hmac/)
