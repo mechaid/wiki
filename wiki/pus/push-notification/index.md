@@ -52,3 +52,4 @@ Sisi server
 - [How to make PWAs re-engageable using Notifications and Push](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Re-engageable_Notifications_Push)
 - [Add push notifications to your web app with Node.js and service workers](https://pusher.com/tutorials/push-notifications-node-service-workers/#prerequisites)
 - [A 5-minute guide to Push notifications in Progressive Web Apps](https://www.educative.io/blog/5-minute-guide-to-push-notifications-in-pwa)
+- [React js PWA tutorial #12 push notification popup | Progressive web app](https://www.youtube.com/watch?v=gvN3SA3CaWE)
