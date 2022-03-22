@@ -4,6 +4,16 @@ layout: wiki-page
 tags: [firebase, fcm, messaging, notification, push-notification]
 ---
 
+## Prosedur Umum
+
+### Firebase Client
+- Firebase Cloud Messaging Client App https://firebase.google.com/docs/cloud-messaging/js/client
+- Beda https://firebase.google.com/docs/web/setup dengan https://firebase.google.com/docs/cloud-messaging/js/client apa ? 
+
+### Firebase Admin SDK
+- Untuk pengiriman data, menggunakan Firebase Admin SDK for FCM
+- Paling lengkap librarynya yang Node.js
+
 ## Implementasi di React
 
 ### Artikel Terkait
