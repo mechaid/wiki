@@ -8,7 +8,7 @@ tags: [firebase, fcm, messaging, notification, push-notification]
 
 ### Firebase Client
 - Firebase Cloud Messaging Client App https://firebase.google.com/docs/cloud-messaging/js/client
-- Beda https://firebase.google.com/docs/auth/web/start dengan https://firebase.google.com/docs/cloud-messaging/js/client, ** Cloud messaging dapat digunakan tanpa harus menggunakan Firebase Auth**
+- **Cloud Messaging dapat digunakan tanpa harus menggunakan Firebase Auth**. Beda https://firebase.google.com/docs/auth/web/start dengan https://firebase.google.com/docs/cloud-messaging/js/client
 
 ### Firebase Admin SDK
 - Untuk pengiriman data, menggunakan Firebase Admin SDK for FCM
