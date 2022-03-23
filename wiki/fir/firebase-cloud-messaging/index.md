@@ -39,6 +39,7 @@ tags: [firebase, fcm, messaging, notification, push-notification]
       ```
 
     </details>
+  - [Membuat VAPID key untuk otorisasi send message request ke push service](https://firebase.google.com/docs/cloud-messaging/js/client#configure_web_credentials_with)
   - Instalasi service worker Firebase firebase-messaging-sw.js
   - Client menyetujui pengiriman notifikasi
     - [Contoh script NotifyMe()](https://developer.mozilla.org/en-US/docs/Web/API/Notification/requestPermission)
