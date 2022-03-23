@@ -40,7 +40,34 @@ tags: [firebase, fcm, messaging, notification, push-notification]
 
     </details>
   - [Membuat VAPID key untuk otorisasi send message request ke push service](https://firebase.google.com/docs/cloud-messaging/js/client#configure_web_credentials_with)
-  - Instalasi service worker Firebase firebase-messaging-sw.js
+  - [Instalasi service worker Firebase firebase-messaging-sw.js](https://firebase.google.com/docs/cloud-messaging/js/send-multiple#handle_messages_when_your_web_app_is_in_the_foreground)
+    <details>
+      <summary>Lihat Kode</summary>
+  
+      ```javascript
+      import { initializeApp } from "firebase/app";
+      import { getMessaging } from "firebase/messaging/sw";
+
+      // Initialize the Firebase app in the service worker by passing in
+      // your app's Firebase config object.
+      // https://firebase.google.com/docs/web/setup#config-object
+      const firebaseApp = initializeApp({
+        apiKey: 'api-key',
+        authDomain: 'project-id.firebaseapp.com',
+        databaseURL: 'https://project-id.firebaseio.com',
+        projectId: 'project-id',
+        storageBucket: 'project-id.appspot.com',
+        messagingSenderId: 'sender-id',
+        appId: 'app-id',
+        measurementId: 'G-measurement-id',
+      });
+
+      // Retrieve an instance of Firebase Messaging so that it can handle background
+      // messages.
+      const messaging = getMessaging(firebaseApp);
+      ```
+  
+    </details>
   - Client menyetujui pengiriman notifikasi
     - [Contoh script NotifyMe()](https://developer.mozilla.org/en-US/docs/Web/API/Notification/requestPermission)
 
@@ -64,6 +91,7 @@ tags: [firebase, fcm, messaging, notification, push-notification]
 - Firebase Admin SDK
 
 ## Artikel Terkait
+- [Firebase - Send messages to multiple devices](https://firebase.google.com/docs/cloud-messaging/js/send-multiple)
 - [JWT](/wiki/wiki/jwt/jwt/)
 - [Public JSON Web Key Set](https://docs.cidaas.com/standard-endpoints/server-jwk-set.html)
 - [Firebase - Authenticate with Firebase in JavaScript Using a Custom Authentication System](https://firebase.google.com/docs/auth/web/custom-auth)
