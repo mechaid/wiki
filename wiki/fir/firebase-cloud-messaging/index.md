@@ -7,20 +7,29 @@ tags: [firebase, fcm, messaging, notification, push-notification]
 ## Prosedur Umum
 
 ### Firebase Client
+#### Catatan:
 - Firebase Cloud Messaging Client App https://firebase.google.com/docs/cloud-messaging/js/client
 - **Cloud Messaging dapat digunakan tanpa harus menggunakan Firebase Auth**. Beda https://firebase.google.com/docs/auth/web/start dengan https://firebase.google.com/docs/cloud-messaging/js/client
-- Client menyetujui pengiriman notifikasi
-  - [Contoh script NotifyMe()](https://developer.mozilla.org/en-US/docs/Web/API/Notification/requestPermission)
+
+#### Prosedur penerimaan pesan di aplikasi client:
+  - Instalasi firebase js library
+  - Inisiasi firebase
+  - Instalasi service worker Firebase firebase-messaging-sw.js
+  - Client menyetujui pengiriman notifikasi
+    - [Contoh script NotifyMe()](https://developer.mozilla.org/en-US/docs/Web/API/Notification/requestPermission)
 
 ### Firebase Admin SDK
-- Untuk pengiriman pesan, menggunakan Firebase Admin SDK for FCM
-- Terdiri dari 2 komponen
-  - **FCM backend** disediain Google
-  - Server app milik kita / [Trusted Server Environment](https://firebase.google.com/docs/cloud-messaging/server#firebase-admin-sdk-for-fcm)
-- Flow pengiriman pesan:
+#### Catatan:
+  - Untuk pengiriman pesan, menggunakan Firebase Admin SDK for FCM
+  - Terdiri dari 2 komponen
+    - **FCM backend** disediain Google
+    - Server app milik kita / [Trusted Server Environment](https://firebase.google.com/docs/cloud-messaging/server#firebase-admin-sdk-for-fcm)
+  - Paling lengkap librarynya yang Node.js
+
+#### Prosedur pengiriman pesan:
   1. Server app milik kita mengirimkan **message requests** ke **FCM backend**
   2. **FCM backend** mengirimkan pesan ke aplikasi client di devicenya client (PWA / Android / Iphone)
-- Paling lengkap librarynya yang Node.js
+
 
 ## Implementasi di React
 - https://buttercms.com/blog/react-firebase-google-analytics-set-up-log-events
