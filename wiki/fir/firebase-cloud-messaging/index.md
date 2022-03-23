@@ -5,15 +5,40 @@ tags: [firebase, fcm, messaging, notification, push-notification]
 ---
 
 ## Prosedur Umum
+### Memulai Firebase Project
 
-### Firebase Client
+### Firebase Javascript API (Client Web App)
 #### Catatan:
 - Firebase Cloud Messaging Client App https://firebase.google.com/docs/cloud-messaging/js/client
 - **Cloud Messaging dapat digunakan tanpa harus menggunakan Firebase Auth**. Beda https://firebase.google.com/docs/auth/web/start dengan https://firebase.google.com/docs/cloud-messaging/js/client
 
 #### Prosedur penerimaan pesan di aplikasi client:
-  - Instalasi firebase js library
-  - Inisiasi firebase
+  - Instalasi dan inisiasi firebase js library
+    - [Instalasi dan inisiasi firebase js ke web client](https://firebase.google.com/docs/web/setup#add-sdk-and-initialize)
+    - [Membuat firebaseConfig](https://firebase.google.com/docs/web/learn-more#config-object)
+  - [Konfigurasi firebase messaging web client](https://firebase.google.com/docs/cloud-messaging/js/client)
+    <details>
+      <summary>Lihat Kode</summary>
+
+      ```javascript
+      import { initializeApp } from "firebase/app";
+      import { getMessaging } from "firebase/messaging";
+
+      // TODO: Replace the following with your app's Firebase project configuration
+      // See: https://firebase.google.com/docs/web/learn-more#config-object
+      const firebaseConfig = {
+        // ...
+      };
+
+      // Initialize Firebase
+      const app = initializeApp(firebaseConfig);
+
+
+      // Initialize Firebase Cloud Messaging and get a reference to the service
+      const messaging = getMessaging(app);
+      ```
+
+    </details>
   - Instalasi service worker Firebase firebase-messaging-sw.js
   - Client menyetujui pengiriman notifikasi
     - [Contoh script NotifyMe()](https://developer.mozilla.org/en-US/docs/Web/API/Notification/requestPermission)
@@ -29,7 +54,6 @@ tags: [firebase, fcm, messaging, notification, push-notification]
 #### Prosedur pengiriman pesan:
   1. Server app milik kita mengirimkan **message requests** ke **FCM backend**
   2. **FCM backend** mengirimkan pesan ke aplikasi client di devicenya client (PWA / Android / Iphone)
-
 
 ## Implementasi di React
 - https://buttercms.com/blog/react-firebase-google-analytics-set-up-log-events
