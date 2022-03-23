@@ -9,6 +9,8 @@ tags: [firebase, fcm, messaging, notification, push-notification]
 ### Firebase Client
 - Firebase Cloud Messaging Client App https://firebase.google.com/docs/cloud-messaging/js/client
 - **Cloud Messaging dapat digunakan tanpa harus menggunakan Firebase Auth**. Beda https://firebase.google.com/docs/auth/web/start dengan https://firebase.google.com/docs/cloud-messaging/js/client
+- Client menyetujui pengiriman notifikasi
+  - [Contoh script NotifyMe()](https://developer.mozilla.org/en-US/docs/Web/API/Notification/requestPermission)
 
 ### Firebase Admin SDK
 - Untuk pengiriman pesan, menggunakan Firebase Admin SDK for FCM
