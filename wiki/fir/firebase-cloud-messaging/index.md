@@ -11,7 +11,13 @@ tags: [firebase, fcm, messaging, notification, push-notification]
 - **Cloud Messaging dapat digunakan tanpa harus menggunakan Firebase Auth**. Beda https://firebase.google.com/docs/auth/web/start dengan https://firebase.google.com/docs/cloud-messaging/js/client
 
 ### Firebase Admin SDK
-- Untuk pengiriman data, menggunakan Firebase Admin SDK for FCM
+- Untuk pengiriman pesan, menggunakan Firebase Admin SDK for FCM
+- Terdiri dari 2 komponen
+  - **FCM backend** disediain Google
+  - Server app milik kita / [Trusted Server Environment](https://firebase.google.com/docs/cloud-messaging/server#firebase-admin-sdk-for-fcm)
+- Flow pengiriman pesan:
+  1. Server app milik kita mengirimkan **message requests** ke **FCM backend**
+  2. **FCM backend** mengirimkan pesan ke aplikasi client di devicenya client (PWA / Android / Iphone)
 - Paling lengkap librarynya yang Node.js
 
 ## Implementasi di React
