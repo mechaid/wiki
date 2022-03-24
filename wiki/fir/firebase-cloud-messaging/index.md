@@ -84,6 +84,8 @@ tags: [firebase, fcm, messaging, notification, push-notification]
   2. **FCM backend** mengirimkan pesan ke aplikasi client di devicenya client (PWA / Android / Iphone)
 
 ## Implementasi di React
+- Pada React PWA, untuk service worker gunakan yang telah disediakan React PWA, pada bagian registerValidSW
+  - gunakan function getToken(vapidKey, serviceWorkerRegistration) dari firebase/messaging untuk memilih service worker tersebut, bukan menggunakan default firebase-messaging-sw.js
 - https://buttercms.com/blog/react-firebase-google-analytics-set-up-log-events
 
 ## Istilah
