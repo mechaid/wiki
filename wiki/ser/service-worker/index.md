@@ -20,6 +20,10 @@ tags: [service-worker, pwa, notifications]
   - menangkap push message
   - mengirim notification
 
+## Catatan Penting !
+- Service worker tidak akan terpasang jika ada error, Chrome mempermudah tracking error Service worker
+- Pahami Service worker lifecycle, fungsi2 bisa dijalankan ketika statenya sudah active, kalau baru registrasi saja, belum bisa
+
 ## Penggunaan
 - Untuk menangkap Push API dari server ke client
 - Untuk mengirim Notif API dari client ke client
