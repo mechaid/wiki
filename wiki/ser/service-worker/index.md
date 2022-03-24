@@ -21,8 +21,14 @@ tags: [service-worker, pwa, notifications]
   - mengirim notification
 
 ## Catatan Penting !
-- Service worker tidak akan terpasang jika ada error, Chrome mempermudah tracking error Service worker
+- Service worker tidak akan terpasang jika ada error bahkan secuil pun, Chrome mempermudah tracking error Service worker
+  - Kemungkinan penyebab eror:
+    - Salah tempat / state eksekusi function
+    - Direktori untuk di cache tidak bisa terbuka, misal menggunakan Google Cloud Storage (tidak ada dir listing)
 - Pahami Service worker lifecycle, fungsi2 bisa dijalankan ketika statenya sudah active, kalau baru registrasi saja, belum bisa
+  1. Registration
+  2. Installation
+  3. Activation
 
 ## Penggunaan
 - Untuk menangkap Push API dari server ke client
@@ -37,6 +43,8 @@ tags: [service-worker, pwa, notifications]
 - [Mozilla - Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API)
 - [Notifications, Server Side Events, Web Sockets (SocketIO), and Push API](https://abaganon.com/tutorials/sse_ws_push.html)
 - [Mozilla - Use Service Workers to manage network requests and push notifications](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+- [web.dev - The service worker lifecycle](https://web.dev/service-worker-lifecycle/)
+- [Chrome Developers - A service worker's life](https://developer.chrome.com/docs/workbox/service-worker-lifecycle/)
 
 ## Artikel Tidak Terkait
 - [Picture in Picture](https://developer.mozilla.org/en-US/docs/Web/API/Picture-in-Picture_API)
