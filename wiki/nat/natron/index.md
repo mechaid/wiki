@@ -9,3 +9,5 @@ tags: [natron, animation, composition]
   - Klik kanan di size dari shape
 - Disable node:
   - Klik D
+- Menggabungkan resource:
+  - Menggunakan Merge node
