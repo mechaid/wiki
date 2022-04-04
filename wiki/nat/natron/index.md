@@ -11,3 +11,5 @@ tags: [natron, animation, composition]
   - Klik D
 - Menggabungkan resource:
   - Menggunakan Merge node
+- Menyelipkan node:
+  - Klik Ctrl ketika hold node yang akan disisipkan hingga muncul tanda kuning
