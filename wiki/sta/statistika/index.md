@@ -8,6 +8,11 @@ tags: [statistics, statistika, data-science, sains-data]
 
 > Statistics is a mathematical and conceptual discipline that focuses on the relation between data and hypotheses. - Stanford Encyclopedia of Philosophy
 
+## Sampel
+
+## Distribusi Sampel
+
+
 ## Jenis Analisis
 
 ### Univariate Analysis (Analisis Univariat)
