@@ -10,6 +10,7 @@ title: Mecha Wiki
 ### AI 
 - [Fuzzy logic](/wiki/wiki/fuz/fuzzy-logic/)
 - [Artificial Intelligence](/wiki/wiki/art/artificial-intelligence/)
+- [Machine Learning](/wiki/wiki/mac/machine-learning/)
 
 ### Security
 - [HMAC](/wiki/wiki/hma/hmac/)
