@@ -9,8 +9,9 @@ tags: [ica, fastica, signal-processing, blind-source-separation]
 
 ### Formulasi
 - algoritma
-- untuk dekomposisi
-- sinyal dari multi sumber
+- untuk blind source separation
+  - dekomposisi
+  - sinyal campuran
 
 ## Halaman Terkait
 - [Signal Processing](/wiki/wiki/sig/signal-processing/)
