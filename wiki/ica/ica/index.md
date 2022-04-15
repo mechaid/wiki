@@ -8,7 +8,12 @@ tags: [ica, fastica, signal-processing]
 ## Definisi
 
 ### Formulasi
-- Algoritma
+- algoritma
+- untuk dekomposisi
+- sinyal
+
+## Halaman Terkait
+- [Signal Processing](/wiki/wiki/sig/signal-processing/)
 
 ## Referensi
 - [ICA (Independent Component Analysis) for dummies](https://cerco.cnrs.fr/pagesp/arno/indexica.html)
