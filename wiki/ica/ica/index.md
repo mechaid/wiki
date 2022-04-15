@@ -9,12 +9,13 @@ tags: [ica, fastica, signal-processing, blind-source-separation]
 
 ### Formulasi
 - algoritma
-- untuk blind source separation
+- untuk [Blind Source Separation](/wiki/wiki/bli/blind-source-separation/)
   - dekomposisi
   - sinyal campuran
 
 ## Halaman Terkait
 - [Signal Processing](/wiki/wiki/sig/signal-processing/)
+- [Blind Source Separation](/wiki/wiki/bli/blind-source-separation/)
 
 ## Referensi
 - [Te-Won Lee - Independent Component Analysis (1998)](https://link.springer.com/book/10.1007/978-1-4757-2851-4)
