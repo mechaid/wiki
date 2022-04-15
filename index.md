@@ -12,6 +12,9 @@ title: Mecha Wiki
 - [Artificial Intelligence](/wiki/wiki/art/artificial-intelligence/)
 - [Machine Learning](/wiki/wiki/mac/machine-learning/)
 
+### Signal Processing
+- [Independent Component Analysis](/wiki/wiki/ica/ica/)
+
 ### Security
 - [HMAC](/wiki/wiki/hma/hmac/)
 - [MAC](/wiki/wiki/mac/mac/)
