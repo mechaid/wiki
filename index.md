@@ -12,8 +12,10 @@ title: Mecha Wiki
 - [Artificial Intelligence](/wiki/wiki/art/artificial-intelligence/)
 - [Machine Learning](/wiki/wiki/mac/machine-learning/)
 
-### Signal Processing
-- [Independent Component Analysis](/wiki/wiki/ica/ica/)
+### Electroencepalography (EEG)
+- [Electroencepalography (EEG)](/wiki/wiki/eeg/eeg-electroencepalography/)
+- [Signal Processing](/wiki/wiki/sig/signal-processing/)
+- [Independent Component Analysis (ICA)](/wiki/wiki/ica/ica-independent-component-analysis/)
 
 ### Security
 - [HMAC](/wiki/wiki/hma/hmac/)
