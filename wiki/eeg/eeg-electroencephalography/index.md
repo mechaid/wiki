@@ -1,5 +1,5 @@
 ---
-title: Electroencepalography (EEG)
+title: Electroencephalography (EEG)
 seo-title:  Electroencepalography (EEG)
 layout: wiki-page
 tags: [eeg, electroencepalography, signal-processing, neuroscience]
