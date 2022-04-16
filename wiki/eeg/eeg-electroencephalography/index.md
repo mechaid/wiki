@@ -16,4 +16,4 @@ tags: [eeg, electroencepalography, signal-processing, neuroscience]
 - [Independent Component Analysis (ICA](/wiki/wiki/ica/ica-independent-component-analysis/)
 
 ## Referensi
-- [Artificial Intelligence - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/artificial-intelligence/)
+- 
