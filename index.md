@@ -13,7 +13,7 @@ title: Mecha Wiki
 - [Machine Learning](/wiki/wiki/mac/machine-learning/)
 
 ### Electroencepalography (EEG)
-- [Electroencepalography (EEG)](/wiki/wiki/eeg/eeg-electroencepalography/)
+- [Electroencepalography (EEG)](/wiki/wiki/eeg/eeg-electroencephalography/)
 - [Signal Processing](/wiki/wiki/sig/signal-processing/)
 - [Independent Component Analysis (ICA)](/wiki/wiki/ica/ica-independent-component-analysis/)
 
