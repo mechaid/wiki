@@ -18,7 +18,7 @@ tags: [eeg, electroencepalography, signal-processing, neuroscience]
 ## Halaman Terkait
 - [Signal Processing](/wiki/wiki/sig/signal-processing/)
 - [Blind Source Separation](/wiki/wiki/bli/blind-source-separation/)
-- [Independent Component Analysis (ICA](/wiki/wiki/ica/ica-independent-component-analysis/)
+- [Independent Component Analysis (ICA)](/wiki/wiki/ica/ica-independent-component-analysis/)
 
 ## Referensi
 - [Dasar - Dasar Electroencephalography (EEG) bagi Riset Psikologi](https://jurnal.ugm.ac.id/buletinpsikologi/article/view/52328)
