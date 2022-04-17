@@ -20,9 +20,9 @@ Vote | Tips
 5 ⭐ | Catat dan rangkum dengan tangan [[1]](https://www.daniel-wong.com/2022/03/01/how-to-take-notes/)
 5 ⭐ | Pareto Principle
 4 ⭐ | Perbanyak sesi belajar, tempo cepat, diselingi istirahat 
+4 ⭐ | Ajarkan yang telah dipelajari
 4 ⭐ | Analogikan dan kaitkan dengan hal yang kamu tahu
 4 ⭐ | Tidur harus cukup
-3 ⭐ | Ajari orang lain
 3 ⭐ | Mnemonic device
 3 ⭐ | Tes mandiri secara berkala
 3 ⭐ | Suarakan kata kunci utama dengan lantang
