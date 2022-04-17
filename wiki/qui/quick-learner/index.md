@@ -16,8 +16,8 @@ tags: [quick-learner, speer-learner, fast-learner]
 
 Vote | Tips
 ---|---
-6 ⭐ | Coba berbagai cara belajar
 6 ⭐ | Catat dan visualisasikan dengan tangan [[1]](https://www.daniel-wong.com/2022/03/01/how-to-take-notes/) [[2]](https://fs.blog/feynman-technique/)
+6 ⭐ | Coba berbagai cara belajar
 5 ⭐ | Pareto Principle [[1]](https://asana.com/resources/pareto-principle-80-20-rule)
 5 ⭐ | Tidur cukup dan berkualitas [[1]](https://www.activehealth.sg/read/sleep/how-does-sleep-impact-your-learning)
 4 ⭐ | Perbanyak sesi belajar dengan durasi singkat [[1]](https://todoist.com/productivity-methods/pomodoro-technique)
