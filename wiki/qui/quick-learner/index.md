@@ -2,7 +2,7 @@
 title: Quick Learner
 seo-title: Tips Menjadi Seorang Quick Learner
 layout: wiki-page
-tags: [graphql]
+tags: [quick-learner, speer-learner, fast-learner]
 ---
 
 ## Definisi
@@ -13,16 +13,19 @@ tags: [graphql]
 - dalam waktu sangat cepat
 
 ## Tips Belajar Hal Baru Dengan Cepat
-- 2 vote | Ajari orang lain
-- Pareto principle
-- 2 vote | Beri target waktu, ambil yang dibutuhkan
-- Gunakan teknik skimming
-- 2 vote | Visualisasikan / buat peta pikiran
-- Suarakan secara lisan
-- 2 vote | Catat dengan tangan
-- 2 vote | Ubah cara belajar jika tidak efektif
-- Dapat menjelaskan ke anak kecil
-- Tidur harus cukup
+
+Vote | Tips
+---|---
+2 ⭐ | Ajari orang lain
+2 ⭐ | Beri target waktu, ambil yang dibutuhkan
+2 ⭐ | Visualisasikan / buat peta pikiran
+2 ⭐ | Ubah cara belajar jika tidak efektif
+2 ⭐ | Catat dengan tangan
+1 ⭐ | Pareto principle
+1 ⭐| Gunakan teknik skimming
+1 ⭐ | Suarakan secara lisan
+1 ⭐ | Dapat menjelaskan ke anak kecil
+1 ⭐ | Tidur harus cukup
 
 ## Artikel Terkait
 - [13 Signs You’re A Pretty Quick Learner](https://www.lifehack.org/articles/productivity/13-signs-youre-pretty-quick-learner.html)
