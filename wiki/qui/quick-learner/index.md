@@ -17,12 +17,12 @@ tags: [quick-learner, speer-learner, fast-learner]
 Vote | Tips
 ---|---
 6 ⭐ | Coba berbagai cara belajar
-5 ⭐ | Catat dan rangkum dengan tangan [[1]](https://www.daniel-wong.com/2022/03/01/how-to-take-notes/)
-5 ⭐ | Pareto Principle
-4 ⭐ | Perbanyak sesi belajar, tempo cepat, diselingi istirahat 
+6 ⭐ | Catat dan visualisasikan dengan tangan [[1]](https://www.daniel-wong.com/2022/03/01/how-to-take-notes/) [[2]](https://fs.blog/feynman-technique/)
+5 ⭐ | Pareto Principle [[1]](https://asana.com/resources/pareto-principle-80-20-rule)
+5 ⭐ | Tidur cukup dan berkualitas [[1]](https://www.activehealth.sg/read/sleep/how-does-sleep-impact-your-learning)
+4 ⭐ | Perbanyak sesi belajar dengan durasi singkat [[1]](https://todoist.com/productivity-methods/pomodoro-technique)
 4 ⭐ | Ajarkan yang telah dipelajari
 4 ⭐ | Analogikan dan kaitkan dengan hal yang kamu tahu
-4 ⭐ | Tidur harus cukup
 3 ⭐ | Mnemonic device
 3 ⭐ | Tes mandiri secara berkala
 3 ⭐ | Suarakan kata kunci utama dengan lantang
@@ -50,3 +50,5 @@ Vote | Tips
 - [How to Learn Faster](https://www.wikihow.com/Learn-Faster)
 - [How to Study Smart: 20 Scientific Ways to Learn Faster](https://www.daniel-wong.com/2015/08/17/study-smart/)
 - [Takeaways from Make it Stick: The Science of Successful Learning](https://blog.apaonline.org/2020/02/19/takeaways-from-make-it-stick-the-science-of-successful-learning/)
+- [How to Learn Anything Faster](https://aliabdaal.com/how-to-learn-anything-faster/)
+- [⭐ 7 Strategies to Learn Anything Fast Today](https://www.developgoodhabits.com/learn-anything/)
