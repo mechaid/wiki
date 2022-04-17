@@ -18,9 +18,9 @@ Vote | Tips
 ---|---
 6 ⭐ | Coba berbagai cara belajar
 5 ⭐ | Catat dan rangkum dengan tangan [[1]](https://www.daniel-wong.com/2022/03/01/how-to-take-notes/)
-4 ⭐ | Perbanyak sesi belajar & review, target waktu cepat, pareto principle
+5 ⭐ | Pareto Principle
+4 ⭐ | Perbanyak sesi belajar, tempo cepat, diselingi istirahat 
 4 ⭐ | Analogikan dan kaitkan dengan hal yang kamu tahu
-4 ⭐ | Selingi istirahat teratur
 4 ⭐ | Tidur harus cukup
 3 ⭐ | Ajari orang lain
 3 ⭐ | Mnemonic device
