@@ -6,6 +6,7 @@ title: Mecha Wiki
 
 ### Scientific Publication
 - [Journal reviewer](/wiki/wiki/jou/journal-reviewer/)
+- [Quick learner](/wiki/wiki/qui/quick-learner/)
 
 ### AI 
 - [Fuzzy logic](/wiki/wiki/fuz/fuzzy-logic/)
@@ -23,6 +24,7 @@ title: Mecha Wiki
 
 ### Data
 - [Data Warehouse](/wiki/wiki/dat/data-warehouse/)
+- [GraphQL](/wiki/wiki/gra/graphql/)
 
 ### Web Development
 - [React](/wiki/wiki/rea/react/)
