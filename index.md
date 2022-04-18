@@ -7,6 +7,7 @@ title: Mecha Wiki
 ### Scientific Publication
 - [Journal reviewer](/wiki/wiki/jou/journal-reviewer/)
 - [Quick learner](/wiki/wiki/qui/quick-learner/)
+- [Work faster](/wiki/wiki/wor/work-faster/)
 
 ### AI 
 - [Fuzzy logic](/wiki/wiki/fuz/fuzzy-logic/)
