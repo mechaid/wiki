@@ -5,11 +5,6 @@ layout: wiki-page
 tags: [work-faster, increase-productivity]
 ---
 
----
-title: "Work Faster"
-date: "2022-04-18 10:22:00"
----
-
 Vote | Tips
 ---|---
 4 ⭐ | Kurangi distraksi 
