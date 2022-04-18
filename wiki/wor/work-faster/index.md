@@ -5,6 +5,8 @@ layout: wiki-page
 tags: [work-faster, increase-productivity]
 ---
 
+## Tips Bekerja Lebih Cepat
+
 Vote | Tips
 ---|---
 4 ⭐ | Kurangi distraksi 
