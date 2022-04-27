@@ -11,10 +11,8 @@ tags: [signal-processing, signal, wave, gelombang, sinyal]
 - berubah terhadap waktu
 
 ### Formulasi Gelombang
-- energi
-- berpropagasi melintasi medium
-- efek domino perubahan atribut entitas medium
-- tanpa menggerakkan medium
+- propagasi energi
+- memanfaatkan efek domino perubahan atribut entitas materi / non materi
 
 ### Video Terkait
 - [What is SIGNAL - Explained with Analogy - Basics of Electronics](https://www.youtube.com/watch?v=jNebPEW3ZNU)
