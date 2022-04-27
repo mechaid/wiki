@@ -12,7 +12,7 @@ tags: [signal-processing, signal, wave, gelombang, sinyal]
 
 ### Formulasi Gelombang
 - propagasi energi
-- memanfaatkan efek domino perubahan atribut entitas materi / non materi
+- memanfaatkan efek perubahan atribut entitas materi / non materi yang saling mempengaruhi
 
 ### Video Terkait
 - [What is SIGNAL - Explained with Analogy - Basics of Electronics](https://www.youtube.com/watch?v=jNebPEW3ZNU)
