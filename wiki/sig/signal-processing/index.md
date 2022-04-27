@@ -14,7 +14,7 @@ tags: [signal-processing, signal, wave, gelombang, sinyal]
 - gangguan
 - membawa energi
 - berpropagasi melintasi medium
-- mengubah atribut medium
+- efek domino perubahan atribut entitas medium
 - tanpa menggerakkan medium
 
 ### Video Terkait
