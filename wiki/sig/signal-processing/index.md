@@ -11,8 +11,7 @@ tags: [signal-processing, signal, wave, gelombang, sinyal]
 - berubah terhadap waktu
 
 ### Formulasi Gelombang
-- gangguan
-- membawa energi
+- energi
 - berpropagasi melintasi medium
 - efek domino perubahan atribut entitas medium
 - tanpa menggerakkan medium
