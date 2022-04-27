@@ -22,3 +22,6 @@ tags: [signal-processing, signal, wave, gelombang, sinyal]
 - [What is an Electromagnetic Wave?](https://www.youtube.com/watch?v=hk63uUhkZH4)
 - [What are Waves? (Oscillations – Waves – Physics)](https://www.youtube.com/watch?v=LoRRE2aG3AY)
 
+### Artikel Terkait
+- [Is it true that there is no such thing as a vacuum in space because there is always some kind of electromagnetic function everywhere?](https://www.quora.com/Is-it-true-that-there-is-no-such-thing-as-a-vacuum-in-space-because-there-is-always-some-kind-of-electromagnetic-function-everywhere)
+
