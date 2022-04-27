@@ -10,6 +10,13 @@ tags: [signal-processing, signal, wave, gelombang, sinyal]
 - ukuran fisik
 - berubah terhadap waktu
 
+### Formulasi Gelombang
+- gangguan
+- membawa energi
+- berpropagasi melintasi medium
+- mengubah atribut medium
+- tanpa menggerakkan medium
+
 ### Video Terkait
 - [What is SIGNAL - Explained with Analogy - Basics of Electronics](https://www.youtube.com/watch?v=jNebPEW3ZNU)
 
