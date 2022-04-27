@@ -19,5 +19,5 @@ tags: [signal-processing, signal, wave, gelombang, sinyal]
 
 ### Video Terkait
 - [What is SIGNAL - Explained with Analogy - Basics of Electronics](https://www.youtube.com/watch?v=jNebPEW3ZNU)
-
+- [What is an Electromagnetic Wave?](https://www.youtube.com/watch?v=hk63uUhkZH4)
 
