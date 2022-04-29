@@ -36,6 +36,8 @@ ICA
 - [Blind Source Separation](/wiki/wiki/bli/blind-source-separation/)
 
 ## Referensi
+- [mne.preprocessing.ICA](https://mne.tools/stable/generated/mne.preprocessing.ICA.html)
+  - MNE ICA sudah mencakup pilihan infomax, picard, fastica
 - [Te-Won Lee - Independent Component Analysis (1998)](https://link.springer.com/book/10.1007/978-1-4757-2851-4)
 - [Independent component analysis: An introduction ⭐](https://www.emerald.com/insight/content/doi/10.1016/j.aci.2018.08.006/full/html)
 - [ICA (Independent Component Analysis) for dummies](https://cerco.cnrs.fr/pagesp/arno/indexica.html)
