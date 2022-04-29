@@ -26,6 +26,9 @@ ICA
   - dekomposisi
   - sinyal campuran
 
+## Catatan
+- Semakin banyak data latih semakin baik
+
 ## Halaman Terkait
 - [Signal Processing](/wiki/wiki/sig/signal-processing/)
 - [Blind Source Separation](/wiki/wiki/bli/blind-source-separation/)
