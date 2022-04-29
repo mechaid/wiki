@@ -28,6 +28,7 @@ ICA
 
 ## Catatan
 - Semakin banyak data latih semakin baik
+- Komponen independen hasil ICA tidak langsung memiliki label, tapi membutuhkan pelabelan manual melalui pengalaman pengamat, atau pelabelan otomatis
 
 ## Halaman Terkait
 - [Signal Processing](/wiki/wiki/sig/signal-processing/)
@@ -40,3 +41,4 @@ ICA
 - [Indep endent Comp onent Analysis](https://www.cs.jhu.edu/~ayuille/courses/Stat161-261-Spring14/HyvO00-icatut.pdf)
 - [Video - ICA applied to EEG](https://www.youtube.com/watch?v=kWAjhXr7pT4&list=PLXc9qfVbMMN2uDadxZ_OEsHjzcRtlLNxc&index=2)
 - [Determining the optimal number of independent components for reproducible transcriptomic data analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6592775/)
+- [Independent Component Analysis for artifact removal](https://eeglab.org/tutorials/06_RejectArtifacts/RunICA.html#watch-ica-presentations)
