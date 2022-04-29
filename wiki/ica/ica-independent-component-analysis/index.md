@@ -5,6 +5,19 @@ layout: wiki-page
 tags: [ica, fastica, signal-processing, blind-source-separation]
 ---
 
+## Pohon Dependensi Topik
+ICA
+- [Blind Source Separation](/wiki/wiki/bli/blind-source-separation/)
+- [Unmixing matrix]()
+- [Statistically independent]()
+- [Central limit theorem]()
+- [Gaussian distribution]()
+- [Entropy]()
+  - [Joint entropy]()
+- [Mutual information]()
+- [Kurtosis]()
+- 
+
 ## Definisi
 
 ### Formulasi
