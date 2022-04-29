@@ -23,3 +23,4 @@ tags: [ica, fastica, signal-processing, blind-source-separation]
 - [ICA (Independent Component Analysis) for dummies](https://cerco.cnrs.fr/pagesp/arno/indexica.html)
 - [Indep endent Comp onent Analysis](https://www.cs.jhu.edu/~ayuille/courses/Stat161-261-Spring14/HyvO00-icatut.pdf)
 - [Video - ICA applied to EEG](https://www.youtube.com/watch?v=kWAjhXr7pT4&list=PLXc9qfVbMMN2uDadxZ_OEsHjzcRtlLNxc&index=2)
+- [Determining the optimal number of independent components for reproducible transcriptomic data analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6592775/)
