@@ -29,6 +29,7 @@ ICA
 ## Catatan
 - Semakin banyak data latih semakin baik
 - Komponen independen hasil ICA tidak langsung memiliki label, tapi membutuhkan pelabelan manual melalui pengalaman pengamat, atau pelabelan otomatis
+- Must be greater than 1 and less than or equal to the number of channels. [(src)](https://mne.tools/stable/generated/mne.preprocessing.ICA.html)
 
 ## Halaman Terkait
 - [Signal Processing](/wiki/wiki/sig/signal-processing/)
