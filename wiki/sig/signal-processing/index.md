@@ -24,3 +24,5 @@ tags: [signal-processing, signal, wave, gelombang, sinyal]
 ### Artikel Terkait
 - [Is it true that there is no such thing as a vacuum in space because there is always some kind of electromagnetic function everywhere?](https://www.quora.com/Is-it-true-that-there-is-no-such-thing-as-a-vacuum-in-space-because-there-is-always-some-kind-of-electromagnetic-function-everywhere)
 
+### Buku
+- [Discrete-Time Signal Processing - Alan Oppenheim](https://www.amazon.com/Discrete-Time-Signal-Processing-3rd-Prentice-Hall/dp/0131988425)
