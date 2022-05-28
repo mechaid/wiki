@@ -37,7 +37,9 @@ title: Mecha Wiki
 - [KrakenD API Gateway](/wiki/wiki/kra/krakend/)
 
 ### Cloud Service
-- [AWS Lambda](/wiki/wiki/aws/aws-lambda/)
+- **Amazon Web Service**
+  - [AWS Lambda](/wiki/wiki/aws/aws-lambda/)
+  - [DynamoDB](/wiki/wiki/dyn/dynamodb/)
 - **Google Cloud Platform**
   - [Google Cloud Storage](/wiki/wiki/goo/google-cloud-storage/)
   - [Firebase Cloud Messaging](/wiki/wiki/fir/firebase-cloud-messaging/)
