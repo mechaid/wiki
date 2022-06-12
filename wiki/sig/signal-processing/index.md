@@ -14,6 +14,9 @@ tags: [signal-processing, signal, wave, gelombang, sinyal]
 - propagasi energi
 - memanfaatkan efek perubahan atribut entitas materi / non materi yang saling mempengaruhi
 
+## Bahasan
+
+
 
 ## Referensi
 
